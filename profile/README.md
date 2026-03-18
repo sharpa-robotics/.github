@@ -5,7 +5,7 @@
         <img src="../images/logo-dark.svg" height="80" alt="Sharpa">
     </picture>
 
-### Innovating Robotics for the Future
+### Manufacture Time by Making Robots Useful
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharpaRobotics)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sharpa-robotics)
@@ -24,15 +24,13 @@ Sharpa is an AI robotics company building ultra-high performance robots and core
 Sharpa builds robots not to replace people, but to help. When robots take on repetitive, strenuous tasks, people can step away and pursue more meaningful endeavors.
 More time is deposited into everyone’s time bank. We give time back to humans.
 
-**Mission:** Manufacture Time by Making Robots Useful
-
 ### 🤖 Products & Technology
 
 ---
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="../images/wave.webp" height="200" alt="Wave">
     </td>
     <td align="center">
@@ -44,7 +42,7 @@ human hand in size, structure, and tactile sensitivity.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="../images/north.webp" height="200" alt="North">
     </td>
     <td align="center">
@@ -56,7 +54,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="../images/craftnet.webp" height="200" alt="CraftNet">
     </td>
     <td align="center">
