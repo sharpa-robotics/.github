@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sharpa-robotics)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SharpaRobotics)
 [![Website](https://img.shields.io/badge/Website-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sharpa.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr@sharpa.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@sharpa.com)
 
 </div>
 
@@ -80,8 +80,8 @@ smooth whole-body control, and fine loco-manipulation.</p>
 
 ---
 
-Connect with our sales team to explore how our cutting-edge technology can empower your research today.
+Have questions or want to collaborate? Get in touch with the right team at Sharpa:
 
-**Sales:** [sales@sharpa.com](mailto:sales@sharpa.com)   
-**PR:**    [pr@sharpa.com](mailto:pr@sharpa.com)
-
+- **Sales:** [sales@sharpa.com](mailto:sales@sharpa.com)  
+- **PR / Media:** [pr@sharpa.com](mailto:pr@sharpa.com)  
+- **Technical Support:** [support@sharpa.com](mailto:support@sharpa.com)
