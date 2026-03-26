@@ -72,7 +72,58 @@ smooth whole-body control, and fine loco-manipulation.</p>
 
 <table>
   <tr>
-    <td align="center"><b>xxx</b></td>
+    <td rowspan="2" width="120" align="center" valign="middle"><b>Hardware</b></td>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="120" align="center" valign="middle"><b>SDK</b></td>
+    <td align="center">
+      <a href="https://github.com/sharpa-robotics/manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/manus-sdk?style=flat-square&logo=github&label=manus-sdk" alt="manus-sdk"></a>
+    </td>
+    <td>This repository is used for integration and demonstration of SharpaWave with Manus MetaGloves Pro, including a Manus data acquisition client and hand retargeting examples.</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="120" align="center" valign="middle"><b>Resource Explorer</b></td>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sharpa-robotics/sharpa-wave-firmware"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-firmware?style=flat-square&logo=github&label=sharpa-wave-firmware" alt="sharpa-wave-firmware"></a>
+    </td>
+    <td>Rlease Sharpa Wave firmware img</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sharpa-robotics/sharpa-community"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-community?style=flat-square&logo=github&label=sharpa-community" alt="sharpa-community"></a>
+    </td>
+    <td>Welcome to the official community forum for Sharpa.</td>
   </tr>
 </table>
 
