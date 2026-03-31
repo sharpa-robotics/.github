@@ -31,7 +31,7 @@ More time is deposited into everyone’s time bank. We give time back to humans.
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/wave.webp" height="200" alt="Wave">
+      <img src="../images/wave.webp" height="auto" style="" alt="Wave">
     </td>
     <td align="center">
       <h3>
@@ -43,7 +43,7 @@ human hand in size, structure, and tactile sensitivity.</p>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/north.webp" height="200" alt="North">
+      <img src="../images/north.webp" height="auto" alt="North">
     </td>
     <td align="center">
       <h3>
@@ -55,7 +55,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/craftnet.webp" height="200" alt="CraftNet">
+      <img src="../images/craftnet.webp" height="auto" alt="CraftNet">
     </td>
     <td align="center">
       <h3>
@@ -74,33 +74,33 @@ smooth whole-body control, and fine loco-manipulation.</p>
   <tr>
     <td rowspan="1" width="120" align="center" valign="middle"><b>Hardware</b></td>
     <td align="center">
-      <a href="https://github.com/sharpa-robotics/sharpa-wave-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-OpenCAD-library?style=flat-square&logo=github&label=sharpa-wave-OpenCAD-library" alt="sharpa-wave-OpenCAD-library"></a>
+      <a href="https://github.com/sharpa-robotics/sharpa-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-OpenCAD-library?style=flat-square&logo=github&label=sharpa-OpenCAD-library" alt="sharpa-OpenCAD-library"></a>
     </td>
     <td>sharpa OpenCAD library.</td>
   </tr>
   <tr>
     <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
     <td align="center">
-      <a href="https://github.com/sharpa-robotics/Sharpa_URDF_USD_XML"><img src="https://img.shields.io/github/v/release/sharpa-robotics/Sharpa_URDF_USD_XML?style=flat-square&logo=github&label=Sharpa_URDF_USD_XML" alt="Sharpa_URDF_USD_XML"></a>
+      <a href="https://github.com/sharpa-robotics/sharpa-urdf-usd-xml"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-urdf-usd-xml?style=flat-square&logo=github&label=sharpa-urdf-usd-xml" alt="sharpa-urdf-usd-xml"></a>
     </td>
-    <td>Sharpa HA4 Hand URDF and XML Files.</td>
+    <td>Assets for sharpa hardwares.</td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sharpa-robotics/SharpaTactileSensorAssets"><img src="https://img.shields.io/github/v/release/sharpa-robotics/SharpaTactileSensorAssets?style=flat-square&logo=github&label=SharpaTactileSensorAssets" alt="SharpaTactileSensorAssets"></a>
+      <a href="https://github.com/sharpa-robotics/sharpa-tactile-sensor-assets"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tactile-sensor-assets?style=flat-square&logo=github&label=sharpa-tactile-sensor-assets" alt="sharpa-tactile-sensor-assets"></a>
     </td>
-    <td>Visualization tool for tactile sensor point clouds and normals.</td>
+    <td>Sharpa tactile sensor static assets.</td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-tacmap"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tacmap?style=flat-square&logo=github&label=sharpa-tacmap" alt="sharpa-tacmap"></a>
     </td>
-    <td>tacmap_sensor provides a TacMap-based tactile sensor that can be integrated into an Isaac Lab project and used like a regular simulator sensor.</td>
+    <td>Sharpa tacmap tactile sensor in isaaclab.</td>
   </tr>
   <tr>
     <td rowspan="2" width="120" align="center" valign="middle"><b>SDK</b></td>
     <td align="center">
-      <a href="https://github.com/sharpa-robotics/manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/manus-sdk?style=flat-square&logo=github&label=manus-sdk" alt="manus-sdk"></a>
+      <a href="https://github.com/sharpa-robotics/sharpa-manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-manus-sdk?style=flat-square&logo=github&label=sharpa-manus-sdk" alt="sharpa-manus-sdk"></a>
     </td>
     <td>This repository is used for integration and demonstration of SharpaWave with Manus MetaGloves Pro, including a Manus data acquisition client and hand retargeting examples.</td>
   </tr>
@@ -108,32 +108,32 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-wave-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-sdk?style=flat-square&logo=github&label=sharpa-wave-sdk" alt="sharpa-wave-sdk"></a>
     </td>
-    <td>Internal SDK for the Sharpa Wave system.</td>
+    <td>Sharpa SDK provides libraries and APIs to integrate Sharpa hardware into your own applications and robotics stacks.</td>
   </tr>
   <tr>
     <td rowspan="4" width="120" align="center" valign="middle"><b>Resource Explorer</b></td>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-pilot"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-pilot?style=flat-square&logo=github&label=sharpa-pilot" alt="sharpa-pilot"></a>
     </td>
-    <td>Companion desktop software for Wave: runtime control and calibration, with simulation and SDK integration for research and deployment.</td>
+    <td>Sharpa Pilot is the official application for device setup, monitoring, firmware updates, and day-to-day operation.</td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-wave-firmware"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-firmware?style=flat-square&logo=github&label=sharpa-wave-firmware" alt="sharpa-wave-firmware"></a>
     </td>
-    <td>Rlease Sharpa Wave firmware img.</td>
+    <td>Sharpa Wave Firmware Official Release Repository.</td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sharpa-robotics/SharpaRLLab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/SharpaRLLab?style=flat-square&logo=github&label=SharpaRLLab" alt="SharpaRLLab"></a>
+      <a href="https://github.com/sharpa-robotics/sharpa-rl-lab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-rl-lab?style=flat-square&logo=github&label=sharpa-rl-lab" alt="sharpa-rl-lab"></a>
     </td>
-    <td>This is a repo for reinforcement learning sim2real rotation demo on SharpaWave, provides a step-by-step guide for training, visualizing and deploying.</td>
+    <td>Sharpa reinforcement learning example in Isaaclab.</td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-community"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-community?style=flat-square&logo=github&label=sharpa-community" alt="sharpa-community"></a>
     </td>
-    <td>Welcome to the official community forum for Sharpa.</td>
+    <td>Official community and discussion forum for Sharpa. Ask questions, share ideas, and connect with other users.</td>
   </tr>
 </table>
 
