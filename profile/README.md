@@ -76,7 +76,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-OpenCAD-library?style=flat-square&logo=github&label=sharpa-OpenCAD-library" alt="sharpa-OpenCAD-library"></a>
     </td>
-    <td>sharpa OpenCAD library.</td>
+    <td>Sharpa OpenCAD library.</td>
   </tr>
   <tr>
     <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
@@ -95,7 +95,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-tacmap"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tacmap?style=flat-square&logo=github&label=sharpa-tacmap" alt="sharpa-tacmap"></a>
     </td>
-    <td>Sharpa tacmap tactile sensor in isaaclab.</td>
+    <td>Sharpa tacmap tactile sensor in Isaaclab.</td>
   </tr>
   <tr>
     <td width="120" align="center" valign="middle"><b>SDK</b></td>
