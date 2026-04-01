@@ -83,7 +83,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-urdf-usd-xml"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-urdf-usd-xml?style=flat-square&logo=github&label=sharpa-urdf-usd-xml" alt="sharpa-urdf-usd-xml"></a>
     </td>
-    <td>Assets for sharpa hardwares.</td>
+    <td>Assets for sharpa hardware.</td>
   </tr>
   <tr>
     <td align="center" width="240">
