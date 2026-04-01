@@ -124,13 +124,14 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Sharpa Wave Firmware Official Release Repository.</td>
   </tr> -->
   <tr>
-    <td rowspan="2" width="120" align="center" valign="middle"><b>Demo</b></td>
+    <td width="120" align="center" valign="middle"><b>Demo</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-rl-lab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-rl-lab?style=flat-square&logo=github&label=sharpa-rl-lab" alt="sharpa-rl-lab"></a>
     </td>
     <td>Sharpa reinforcement learning example in Isaaclab.</td>
   </tr>
   <tr>
+    <td width="120" align="center" valign="middle"><b>Community</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-community"><img src="https://img.shields.io/badge/sharpa--community-repo-555?style=flat-square&logo=github" alt="sharpa-community"></a>
     </td>
