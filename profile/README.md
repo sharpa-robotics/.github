@@ -73,33 +73,33 @@ smooth whole-body control, and fine loco-manipulation.</p>
 <table>
   <tr>
     <td rowspan="1" width="120" align="center" valign="middle"><b>3D Model</b></td>
-    <td align="center">
+    <td>
       <a href="https://github.com/sharpa-robotics/sharpa-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-OpenCAD-library?style=flat-square&logo=github&label=sharpa-OpenCAD-library" alt="sharpa-OpenCAD-library"></a>
     </td>
     <td>Sharpa OpenCAD library.</td>
   </tr>
   <tr>
     <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
-    <td align="center">
+    <td>
       <a href="https://github.com/sharpa-robotics/sharpa-urdf-usd-xml"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-urdf-usd-xml?style=flat-square&logo=github&label=sharpa-urdf-usd-xml" alt="sharpa-urdf-usd-xml"></a>
     </td>
     <td>Assets for sharpa hardware.</td>
   </tr>
   <tr>
-    <td align="center" width="240">
+    <td width="280">
       <a href="https://github.com/sharpa-robotics/sharpa-tactile-sensor-assets"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tactile-sensor-assets?style=flat-square&logo=github&label=sharpa-tactile-sensor-assets" alt="sharpa-tactile-sensor-assets"></a>
     </td>
     <td>Sharpa tactile sensor static assets.</td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/sharpa-robotics/sharpa-tacmap"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tacmap?style=flat-square&logo=github&label=sharpa-tacmap" alt="sharpa-tacmap"></a>
     </td>
     <td>Sharpa tacmap tactile sensor in Isaaclab.</td>
   </tr>
   <tr>
     <td width="120" align="center" valign="middle"><b>SDK</b></td>
-    <td align="center">
+    <td>
       <a href="https://github.com/sharpa-robotics/sharpa-manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-manus-sdk?style=flat-square&logo=github&label=sharpa-manus-sdk" alt="sharpa-manus-sdk"></a>
     </td>
     <td>This repository is used for integration and demonstration of SharpaWave with Manus MetaGloves Pro, including a Manus data acquisition client and hand retargeting examples.</td>
@@ -125,13 +125,13 @@ smooth whole-body control, and fine loco-manipulation.</p>
   </tr> -->
   <tr>
     <td rowspan="2" width="120" align="center" valign="middle"><b>Demo</b></td>
-    <td align="center">
+    <td>
       <a href="https://github.com/sharpa-robotics/sharpa-rl-lab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-rl-lab?style=flat-square&logo=github&label=sharpa-rl-lab" alt="sharpa-rl-lab"></a>
     </td>
     <td>Sharpa reinforcement learning example in Isaaclab.</td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/sharpa-robotics/sharpa-community"><img src="https://img.shields.io/badge/sharpa--community-repo-555?style=flat-square&logo=github" alt="sharpa-community"></a>
     </td>
     <td>Official community and discussion forum for Sharpa. Ask questions, share ideas, and connect with other users.</td>
