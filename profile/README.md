@@ -86,7 +86,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Assets for sharpa hardwares.</td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/sharpa-robotics/sharpa-tactile-sensor-assets"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tactile-sensor-assets?style=flat-square&logo=github&label=sharpa-tactile-sensor-assets" alt="sharpa-tactile-sensor-assets"></a>
     </td>
     <td>Sharpa tactile sensor static assets.</td>
