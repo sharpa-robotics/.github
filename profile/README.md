@@ -21,7 +21,7 @@
 
 Sharpa is an AI robotics company building ultra-high performance robots and core components to unlock the limitless possibilities of future general-purpose robots.
 
-Sharpa builds robots not to replace people, but to help. When robots take on repetitive, strenuous tasks, people can step away and pursue more meaningful endeavors.
+ builds robots not to replace people, but to help. When robots take on repetitive, strenuous tasks, people can step away and pursue more meaningful endeavors.
 More time is deposited into everyone’s time bank. We give time back to humans.
 
 ### 🤖 Products & Technology
@@ -108,7 +108,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td align="center">
       <a href="https://github.com/sharpa-robotics/sharpa-wave-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-sdk?style=flat-square&logo=github&label=sharpa-wave-sdk" alt="sharpa-wave-sdk"></a>
     </td>
-    <td>Sharpa SDK provides libraries and APIs to integrate Sharpa hardware into your own applications and robotics stacks.</td>
+    <td>Sharpa SDK provides libraries and APIs to integrate sharpa hardware into your own applications and robotics stacks.</td>
   </tr> -->
   <!-- <tr>
     <td width="120" align="center" valign="middle"><b>Resource Explorer</b></td>
@@ -135,7 +135,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-community"><img src="https://img.shields.io/badge/sharpa--community-repo-555?style=flat-square&logo=github" alt="sharpa-community"></a>
     </td>
-    <td>Official community and discussion forum for Sharpa. Ask questions, share ideas, and connect with other users.</td>
+    <td>Official community and discussion forum for sharpa. Ask questions, share ideas, and connect with other users.</td>
   </tr>
 </table>
 
