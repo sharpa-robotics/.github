@@ -76,7 +76,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-OpenCAD-library?style=flat-square&logo=github&label=sharpa-OpenCAD-library" alt="sharpa-OpenCAD-library"></a>
     </td>
-    <td>Sharpa OpenCAD library.</td>
+    <td>Mechanical CAD files of Sharpa Wave adapter and simplified models.</td>
   </tr>
   <tr>
     <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
@@ -124,7 +124,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Sharpa Wave Firmware Official Release Repository.</td>
   </tr> -->
   <tr>
-    <td width="120" align="center" valign="middle"><b>Demo</b></td>
+    <td width="120" align="center" valign="middle"><b>Codebase</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-rl-lab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-rl-lab?style=flat-square&logo=github&label=sharpa-rl-lab" alt="sharpa-rl-lab"></a>
     </td>
