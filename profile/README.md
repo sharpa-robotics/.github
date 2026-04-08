@@ -33,7 +33,7 @@ More time is deposited into everyone’s time bank. We give time back to humans.
     <td width="50%" align="center">
       <img src="../images/wave.webp" height="auto" style="" alt="Wave">
     </td>
-    <td align="center" style="padding-bottom: 32px">
+    <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/wave">Wave</a>
       </h3>
