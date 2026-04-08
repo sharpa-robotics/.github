@@ -33,7 +33,7 @@ More time is deposited into everyone’s time bank. We give time back to humans.
     <td width="50%" align="center">
       <img src="../images/wave.webp" height="auto" style="" alt="Wave">
     </td>
-    <td align="center">
+    <td align="center" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/wave">Wave</a>
       </h3>
@@ -45,7 +45,7 @@ human hand in size, structure, and tactile sensitivity.</p>
     <td width="50%" align="center">
       <img src="../images/north.webp" height="auto" alt="North">
     </td>
-    <td align="center">
+    <td align="center" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/north">North</a>
       </h3>
@@ -57,7 +57,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td width="50%" align="center">
       <img src="../images/craftnet.webp" height="auto" alt="CraftNet">
     </td>
-    <td align="center">
+    <td align="center" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/craftnet">CraftNet</a>
       </h3>
@@ -102,7 +102,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-manus-sdk?style=flat-square&logo=github&label=sharpa-manus-sdk" alt="sharpa-manus-sdk"></a>
     </td>
-    <td>This repository is used for integration and demonstration of SharpaWave with Manus MetaGloves Pro, including a Manus data acquisition client and hand retargeting examples.</td>
+    <td>Hand Tracking & Retargeting for Manus MetaGloves Pro.</td>
   </tr>
   <!-- <tr>
     <td align="center">
