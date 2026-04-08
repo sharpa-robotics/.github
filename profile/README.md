@@ -33,7 +33,7 @@ More time is deposited into everyone’s time bank. We give time back to humans.
     <td width="50%" align="center">
       <img src="../images/wave.webp" height="auto" style="" alt="Wave">
     </td>
-    <td align="center" style="padding-bottom: 32px">
+    <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/wave">Wave</a>
       </h3>
@@ -45,7 +45,7 @@ human hand in size, structure, and tactile sensitivity.</p>
     <td width="50%" align="center">
       <img src="../images/north.webp" height="auto" alt="North">
     </td>
-    <td align="center" style="padding-bottom: 32px">
+    <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/north">North</a>
       </h3>
@@ -57,7 +57,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td width="50%" align="center">
       <img src="../images/craftnet.webp" height="auto" alt="CraftNet">
     </td>
-    <td align="center" style="padding-bottom: 32px">
+    <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/craftnet">CraftNet</a>
       </h3>
@@ -76,7 +76,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-OpenCAD-library?style=flat-square&logo=github&label=sharpa-OpenCAD-library" alt="sharpa-OpenCAD-library"></a>
     </td>
-    <td>Sharpa OpenCAD library.</td>
+    <td>Mechanical CAD files of Sharpa Wave adapter and simplified models.</td>
   </tr>
   <tr>
     <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
@@ -95,7 +95,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-tacmap"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-tacmap?style=flat-square&logo=github&label=sharpa-tacmap" alt="sharpa-tacmap"></a>
     </td>
-    <td>Sharpa tacmap tactile sensor in Isaaclab.</td>
+    <td>Sharpa tacmap tactile sensor in Isaac Lab.</td>
   </tr>
   <tr>
     <td width="120" align="center" valign="middle"><b>SDK</b></td>
@@ -124,11 +124,11 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Sharpa Wave Firmware Official Release Repository.</td>
   </tr> -->
   <tr>
-    <td width="120" align="center" valign="middle"><b>Demo</b></td>
+    <td width="120" align="center" valign="middle"><b>Codebase</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-rl-lab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-rl-lab?style=flat-square&logo=github&label=sharpa-rl-lab" alt="sharpa-rl-lab"></a>
     </td>
-    <td>Sharpa reinforcement learning example in Isaaclab.</td>
+    <td>Sharpa reinforcement learning example in Isaac Lab.</td>
   </tr>
   <tr>
     <td width="120" align="center" valign="middle"><b>Community</b></td>
