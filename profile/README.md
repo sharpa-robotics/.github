@@ -74,7 +74,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
   <tr>
     <td rowspan="1" width="120" align="center" valign="middle"><b>3D Model</b></td>
     <td>
-      <a href="https://github.com/sharpa-robotics/sharpa-OpenCAD-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-OpenCAD-library?style=flat-square&logo=github&label=sharpa-OpenCAD-library" alt="sharpa-OpenCAD-library"></a>
+      <a href="https://github.com/sharpa-robotics/sharpa-opencad-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-opencad-library?style=flat-square&logo=github&label=sharpa-opencad-library" alt="sharpa-opencad-library"></a>
     </td>
     <td>Mechanical CAD files of Sharpa Wave adapter and simplified models.</td>
   </tr>
@@ -83,7 +83,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-urdf-usd-xml"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-urdf-usd-xml?style=flat-square&logo=github&label=sharpa-urdf-usd-xml" alt="sharpa-urdf-usd-xml"></a>
     </td>
-    <td>Assets for sharpa hardware.</td>
+    <td>Assets for Sharpa hardware.</td>
   </tr>
   <tr>
     <td width="280">
