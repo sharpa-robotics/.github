@@ -45,7 +45,7 @@ human hand in size, structure, and tactile sensitivity.</p>
     <td width="50%" align="center">
       <img src="../images/north.webp" height="auto" alt="North">
     </td>
-    <td align="center" style="padding-bottom: 32px">
+    <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/north">North</a>
       </h3>
@@ -57,7 +57,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td width="50%" align="center">
       <img src="../images/craftnet.webp" height="auto" alt="CraftNet">
     </td>
-    <td align="center" style="padding-bottom: 32px">
+    <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
         <a href="https://www.sharpa.com/pages/craftnet">CraftNet</a>
       </h3>
