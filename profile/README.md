@@ -72,14 +72,39 @@ smooth whole-body control, and fine loco-manipulation.</p>
 
 <table>
   <tr>
-    <td rowspan="1" width="120" align="center" valign="middle"><b>3D Model</b></td>
+    <td rowspan="2" width="120" align="center" valign="middle"><b>Device Software</b></td>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-pilot"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-pilot?style=flat-square&logo=github&label=sharpa-pilot" alt="sharpa-pilot"></a>
+    </td>
+    <td>Sharpa Pilot is the official application for device configuration, monitoring, firmware updates, and routine operations.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-wave-firmware"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-firmware?style=flat-square&logo=github&label=sharpa-wave-firmware" alt="sharpa-wave-firmware"></a>
+    </td>
+    <td>Sharpa Wave firmware is the embedded software on Sharpa Wave that runs low-level control, sensing, and host communication for use with Sharpa Pilot and Sharpa Wave SDK.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="120" align="center" valign="middle"><b>Developer SDKs</b></td>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-wave-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-sdk?style=flat-square&logo=github&label=sharpa-wave-sdk" alt="sharpa-wave-sdk"></a>
+    </td>
+    <td>Sharpa Wave SDK provides libraries and APIs for integrating Sharpa Wave into custom applications and robotics software stacks.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-manus-sdk?style=flat-square&logo=github&label=sharpa-manus-sdk" alt="sharpa-manus-sdk"></a>
+    </td>
+    <td>Hand Tracking & Retargeting for Manus MetaGloves Pro.</td>
+  </tr>
+  <tr>
+    <td rowspan="5" width="120" align="center" valign="middle"><b>Simulation Resources</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-opencad-library"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-opencad-library?style=flat-square&logo=github&label=sharpa-opencad-library" alt="sharpa-opencad-library"></a>
     </td>
     <td>Mechanical CAD files of Sharpa Wave adapter and simplified models.</td>
   </tr>
   <tr>
-    <td rowspan="3" width="120" align="center" valign="middle"><b>Simulation</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-urdf-usd-xml"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-urdf-usd-xml?style=flat-square&logo=github&label=sharpa-urdf-usd-xml" alt="sharpa-urdf-usd-xml"></a>
     </td>
@@ -98,34 +123,6 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Sharpa tacmap tactile sensor in Isaac Lab.</td>
   </tr>
   <tr>
-    <td rowspan="2" width="120" align="center" valign="middle"><b>SDK</b></td>
-    <td>
-      <a href="https://github.com/sharpa-robotics/sharpa-manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-manus-sdk?style=flat-square&logo=github&label=sharpa-manus-sdk" alt="sharpa-manus-sdk"></a>
-    </td>
-    <td>Hand Tracking & Retargeting for Manus MetaGloves Pro.</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/sharpa-robotics/sharpa-wave-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-sdk?style=flat-square&logo=github&label=sharpa-wave-sdk" alt="sharpa-wave-sdk"></a>
-    </td>
-    <td>Sharpa Wave SDK provides libraries and APIs for integrating Sharpa Wave into custom applications and robotics software stacks.</td>
-  </tr>
-  <tr>
-    <td width="120" align="center" valign="middle"><b>Software</b></td>
-    <td>
-      <a href="https://github.com/sharpa-robotics/sharpa-pilot"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-pilot?style=flat-square&logo=github&label=sharpa-pilot" alt="sharpa-pilot"></a>
-    </td>
-    <td>Sharpa Pilot is the official application for device configuration, monitoring, firmware updates, and routine operations.</td>
-  </tr>
-  <tr>
-    <td width="120" align="center" valign="middle"><b>Firmware</b></td>
-    <td>
-      <a href="https://github.com/sharpa-robotics/sharpa-wave-firmware"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-firmware?style=flat-square&logo=github&label=sharpa-wave-firmware" alt="sharpa-wave-firmware"></a>
-    </td>
-    <td>Sharpa Wave firmware is the embedded software on Sharpa Wave that runs low-level control, sensing, and host communication for use with Sharpa Pilot and Sharpa Wave SDK.</td>
-  </tr>
-  <tr>
-    <td width="120" align="center" valign="middle"><b>Codebase</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-rl-lab"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-rl-lab?style=flat-square&logo=github&label=sharpa-rl-lab" alt="sharpa-rl-lab"></a>
     </td>
