@@ -66,7 +66,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
   </tr>
 </table>
 
-### 📂 Repositories
+### 📂 Downloads
 
 ---
 
