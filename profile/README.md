@@ -21,7 +21,7 @@
 
 Sharpa is an AI robotics company building ultra-high performance robots and core components to unlock the limitless possibilities of future general-purpose robots.
 
- builds robots not to replace people, but to help. When robots take on repetitive, strenuous tasks, people can step away and pursue more meaningful endeavors.
+Sharpa builds robots not to replace people, but to help. When robots take on repetitive, strenuous tasks, people can step away and pursue more meaningful endeavors.
 More time is deposited into everyone’s time bank. We give time back to humans.
 
 ### 🤖 Products & Technology
@@ -33,13 +33,15 @@ More time is deposited into everyone’s time bank. We give time back to humans.
     <td width="50%" align="center">
       <img src="../images/wave.webp" height="auto" style="" alt="Wave">
     </td>
-    <td align="center" valign="middle" style="padding-bottom: 32px">
-      <h3>
-        <a href="https://www.sharpa.com/pages/wave">Wave</a>
-      </h3>
-      <p>A revolutionary dexterous robotic hand designed to match the
+      <td width="50%" valign="middle" style="vertical-align: middle;">
+  <motion.div class="wave-text">
+    <h3>
+      <a href="https://www.sharpa.com/pages/wave">Wave</a>
+    </h3>
+    <p>A revolutionary dexterous robotic hand designed to match the
 human hand in size, structure, and tactile sensitivity.</p>
-    </td>
+  </motion.div>
+</td>
   </tr>
   <tr>
     <td width="50%" align="center">
