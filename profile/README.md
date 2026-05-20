@@ -33,15 +33,14 @@ More time is deposited into everyone’s time bank. We give time back to humans.
     <td width="50%" align="center">
       <img src="../images/wave.webp" height="auto" style="" alt="Wave">
     </td>
-      <td width="50%" valign="middle" style="vertical-align: middle;">
-  <motion.div class="wave-text">
-    <h3>
-      <a href="https://www.sharpa.com/pages/wave">Wave</a>
-    </h3>
-    <p>A revolutionary dexterous robotic hand designed to match the
-human hand in size, structure, and tactile sensitivity.</p>
-  </motion.div>
-</td>
+    <td width="50%" align="center" valign="middle" style="vertical-align: middle;">
+      <motion.div class="wave-text">
+        <h3>
+          <a href="https://www.sharpa.com/pages/wave">Wave</a>
+        </h3>
+        <p>A revolutionary dexterous robotic hand designed to match the human hand in size, structure, and tactile sensitivity.</p>
+      </motion.div>
+    </td>
   </tr>
   <tr>
     <td width="50%" align="center">
