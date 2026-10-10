@@ -86,7 +86,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Sharpa Wave firmware is the embedded software on Sharpa Wave that runs low-level control, sensing, and host communication for use with Sharpa Pilot and Sharpa Wave SDK.</td>
   </tr>
   <tr>
-    <td rowspan="2" width="120" align="center" valign="middle"><b>Developer SDKs</b></td>
+    <td rowspan="3" width="120" align="center" valign="middle"><b>Developer SDKs</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-wave-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-sdk?style=flat-square&logo=github&label=sharpa-wave-sdk" alt="sharpa-wave-sdk"></a>
     </td>
@@ -97,6 +97,25 @@ smooth whole-body control, and fine loco-manipulation.</p>
       <a href="https://github.com/sharpa-robotics/sharpa-manus-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-manus-sdk?style=flat-square&logo=github&label=sharpa-manus-sdk" alt="sharpa-manus-sdk"></a>
     </td>
     <td>Hand Tracking & Retargeting for Manus MetaGloves Pro.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-vision-retargeting-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-vision-retargeting-sdk?style=flat-square&logo=github&label=sharpa-vision-retargeting-sdk" alt="sharpa-vision-retargeting-sdk"></a>
+    </td>
+    <td>Hand tracking and retargeting for Sharpa Wave using webcams or Meta Quest.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="120" align="center" valign="middle"><b>AI Models</b></td>
+    <td>
+      <a href="https://github.com/sharpa-robotics/WM-Craftnet"><img src="https://img.shields.io/github/v/release/sharpa-robotics/WM-Craftnet?style=flat-square&logo=github&label=WM-Craftnet" alt="WM-Craftnet"></a>
+    </td>
+    <td>[CoRL'2026] WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpawave-deform-encoder"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpawave-deform-encoder?style=flat-square&logo=github&label=sharpawave-deform-encoder" alt="sharpawave-deform-encoder"></a>
+    </td>
+    <td>DeformEncoder converts preprocessed single-channel deformation images into compact tactile features.</td>
   </tr>
   <tr>
     <td rowspan="5" width="120" align="center" valign="middle"><b>Simulation Resources</b></td>
