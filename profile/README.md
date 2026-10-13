@@ -56,6 +56,17 @@ smooth whole-body control, and fine loco-manipulation.</p>
   </tr>
   <tr>
     <td width="50%" align="center">
+      <img src="../images/avatar.png" width="60%" height="auto" alt="Avatar">
+    </td>
+    <td align="center" valign="middle" style="padding-bottom: 32px">
+      <h3>
+        <a href="https://www.sharpa.com/pages/ae01">Sharpa AvatarExo Glove</a>
+      </h3>
+      <p>An Exoskeleton Data Glove with Haptic Feedback for Precise Teleoperation and Egocentric Data Capture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <img src="../images/craftnet.webp" height="auto" alt="CraftNet">
     </td>
     <td align="center" valign="middle" style="padding-bottom: 32px">
