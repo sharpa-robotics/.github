@@ -73,7 +73,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
 
 <table>
   <tr>
-    <td rowspan="2" width="120" align="center" valign="middle"><b>Device Software</b></td>
+    <td rowspan="4" width="120" align="center" valign="middle"><b>Device Software</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-pilot"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-pilot?style=flat-square&logo=github&label=sharpa-pilot" alt="sharpa-pilot"></a>
     </td>
@@ -86,7 +86,19 @@ smooth whole-body control, and fine loco-manipulation.</p>
     <td>Sharpa Wave firmware is the embedded software on Sharpa Wave that runs low-level control, sensing, and host communication for use with Sharpa Pilot and Sharpa Wave SDK.</td>
   </tr>
   <tr>
-    <td rowspan="3" width="120" align="center" valign="middle"><b>Developer SDKs</b></td>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-avatar-app"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-avatar-app?style=flat-square&logo=github&label=sharpa-avatar-app" alt="sharpa-avatar-app"></a>
+    </td>
+    <td>Sharpa Avatar App is the official desktop application for configuring and monitoring the Sharpa AvatarExo Glove, visualizing its data, and using it to teleoperate Sharpa Wave.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-avatar-ae01-firmware"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-avatar-ae01-firmware?style=flat-square&logo=github&label=sharpa-avatar-ae01-firmware" alt="sharpa-avatar-ae01-firmware"></a>
+    </td>
+    <td>Embedded firmware for the Sharpa AE01 Glove, supporting sensor data acquisition, tactile feedback, wired USB and 2.4 GHz wireless communication, and device operation.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" width="120" align="center" valign="middle"><b>Developer SDKs</b></td>
     <td>
       <a href="https://github.com/sharpa-robotics/sharpa-wave-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-wave-sdk?style=flat-square&logo=github&label=sharpa-wave-sdk" alt="sharpa-wave-sdk"></a>
     </td>
@@ -103,6 +115,12 @@ smooth whole-body control, and fine loco-manipulation.</p>
       <a href="https://github.com/sharpa-robotics/sharpa-vision-retargeting-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-vision-retargeting-sdk?style=flat-square&logo=github&label=sharpa-vision-retargeting-sdk" alt="sharpa-vision-retargeting-sdk"></a>
     </td>
     <td>Hand tracking and retargeting for Sharpa Wave using webcams or Meta Quest.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sharpa-robotics/sharpa-avatar-sdk"><img src="https://img.shields.io/github/v/release/sharpa-robotics/sharpa-avatar-sdk?style=flat-square&logo=github&label=sharpa-avatar-sdk" alt="sharpa-avatar-sdk"></a>
+    </td>
+    <td>Sharpa Avatar SDK provides libraries and APIs for integrating Sharpa AvatarExo Glove into custom applications and robotics software stacks.</td>
   </tr>
   <tr>
     <td rowspan="2" width="120" align="center" valign="middle"><b>AI Models</b></td>
