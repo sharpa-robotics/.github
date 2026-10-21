@@ -36,33 +36,43 @@ More time is deposited into everyone’s time bank. We give time back to humans.
     <td width="50%" align="center" valign="middle" style="vertical-align: middle;">
       <motion.div class="wave-text">
         <h3>
-          <a href="https://www.sharpa.com/pages/wave">Wave</a>
+          Wave
         </h3>
         <p>A revolutionary dexterous robotic hand designed to match the human hand in size, structure, and tactile sensitivity.</p>
+        <p>
+          <a href="https://www.sharpa.com/pages/w01">W01</a>
+          <span>|</span>
+          <a href="https://www.sharpa.com/pages/w02">W02</a>
+        </p>
       </motion.div>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/north.webp" height="auto" alt="North">
+      <img src="../images/droid.png" width="60%" height="auto" alt="Droid">
     </td>
     <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
-        <a href="https://www.sharpa.com/pages/north">North</a>
+        Droid
       </h3>
-      <p>A full-body robot integrates high dynamic,
-smooth whole-body control, and fine loco-manipulation.</p>
+      <p>An integrated tactile-sensing humanoid robot with dexterous hands, 7-DoF arms, and whole-body E-skin for agile, precise manipulation in real-world tasks.</p>
+      <p>
+        <a href="https://www.sharpa.com/pages/d01">D01</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/avatar.png" width="60%" height="auto" alt="Avatar">
+      <img src="../images/avatar.png" height="auto" alt="Avatar">
     </td>
     <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
-        <a href="https://www.sharpa.com/pages/ae01">Sharpa AvatarExo Glove</a>
+        Avatar
       </h3>
       <p>An Exoskeleton Data Glove with Haptic Feedback for Precise Teleoperation and Egocentric Data Capture.</p>
+      <p>
+        <a href="https://www.sharpa.com/pages/ae01">AE01</a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -71,7 +81,7 @@ smooth whole-body control, and fine loco-manipulation.</p>
     </td>
     <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
-        <a href="https://www.sharpa.com/pages/craftnet">CraftNet</a>
+        CraftNet
       </h3>
       <p>An end-to-end, hierarchical VTLA model for fine manipulation, enabling native, anthropomorphic last-millimeter interaction.</p>
     </td>
