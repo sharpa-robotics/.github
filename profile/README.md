@@ -63,7 +63,7 @@ More time is deposited into everyone’s time bank. We give time back to humans.
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/avatar.png" height="auto" alt="Avatar">
+      <img src="../images/ae01.png" height="auto" alt="Avatar">
     </td>
     <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
