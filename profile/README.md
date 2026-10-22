@@ -49,7 +49,7 @@ More time is deposited into everyone’s time bank. We give time back to humans.
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../images/droid.png" height="auto" alt="Droid">
+      <img src="../images/droid_01.png" height="auto" alt="Droid">
     </td>
     <td align="center" valign="middle" style="padding-bottom: 32px">
       <h3>
